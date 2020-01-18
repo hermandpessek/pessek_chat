@@ -9,7 +9,7 @@ XMPP Client for ELGG based on Converse.js
   </head>
   <body>
     <h2>DESCRIPTION</h2>
-    <p>This plugin is a fully featured bridge between <a href="https://elgg.org" target="_blank">elgg</a> and <a href="https://conversejs.org" target="_blank">converse.js</a> library, an advanced <a href="https://xmpp.org/" target="_blank">XMPP (Jabber)</a> chat client for your website.</p>
+    <p>This plugin is a fully featured bridge between <a href="https://elgg.org" target="_blank">elgg</a> and <a href="https://conversejs.org" target="_blank">converse.js</a> library, an advanced <a href="https://xmpp.org/" target="_blank">XMPP (Jabber)</a> chat client for your social networking engine.</p>
     <p>Converse.js is an open source webchat client, that runs in the browser and can be integrated into any website.</p>
     <p>It’s similar to Facebook chat, but also supports multi-user chatrooms.</p>
     <p>Converse.js can connect to any accessible XMPP/Jabber server, either from a public provider, or to one you have set up yourself.</p>
