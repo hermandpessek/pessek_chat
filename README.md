@@ -1,5 +1,6 @@
-# pessek_chat
+# PESSEK CHAT
 XMPP Client for ELGG based on Converse.js
+Pessek Chat is a facebook like chat for elgg using the XMPP protocol. It requires the XMPP serveur. The plugin was tested with ejabberd
 
 <!DOCTYPE html>
 <html lang="en">
