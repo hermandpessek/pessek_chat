@@ -48,6 +48,10 @@
       <li>Message Moderation <a href="https://xmpp.org/extensions/xep-0425.html" rel="nofollow">XEP-425</a></li>
       <li>Translated into over 30 languages</li>
     </ul>
-
+    <h2>SCREENSHOTS</h2>
+    <p>ChatBox</p>
+    <img src="https://user-images.githubusercontent.com/60041160/72668141-e9437500-3a23-11ea-9759-550d95a4b606.png" alt="ChatBox" style="max-width:100%;">
+    <p>XMPP Server Settings</p>
+    <img src="https://user-images.githubusercontent.com/60041160/72668149-f6f8fa80-3a23-11ea-8df8-77cd9b3e5363.png" alt="Chat  Settings" style="max-width:100%;">
   </body>
 </html>
