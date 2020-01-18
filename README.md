@@ -8,6 +8,10 @@ XMPP Client for ELGG based on Converse.js
     <meta name="viewport" content="width=device-width">
   </head>
   <body>
+    SPECIAL THANKS
+    <ul>
+      <li>To my WIFE</li>
+    </ul>
     <ul>
       <li>Available as overlayed chat boxes or as a fullscreen application. See <a href="https://inverse.chat" rel="nofollow">inverse.chat</a> for the fullscreen version.</li>
       <li>Custom status messages</li>
