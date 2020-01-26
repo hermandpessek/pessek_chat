@@ -26,7 +26,7 @@ class PessekPrcXmlrpcElgg{//PessekPrcXmlrpcElgg //pessek_prc_xmlrpc_elgg
                     
                 }
                 
-                $this->invitation($User1, $User2, $NickName, $subs); //$this->invitation($User2, $User1, $NickName);
+                $this->invitation($User1, $User2, "", $subs); //$this->invitation($User2, $User1, $NickName);
                 $this->chat_user_vcard($User1, $User2, "FN", $fullname);
                 $this->chat_user_vcard($User1, $User2, "NICKNAME", $NickName);
             

@@ -32,7 +32,7 @@ class Bootstrap extends PluginBootstrap {
 		//Menus
 		$hooks = $this->elgg()->hooks;	
 		$this->elgg()->events->registerHandler('login:after', 'user', '\Pessek\PessekChat\PessekChatConfig::handle_after_login');
-		$this->elgg()->events->registerHandler('login:before', 'user', '\Pessek\PessekChat\PessekChatConfig::handle_before_login');
+//$this->elgg()->events->registerHandler('login:before', 'user', '\Pessek\PessekChat\PessekChatConfig::handle_before_login');
 		$this->elgg()->events->registerHandler('create', 'user', '\Pessek\PessekChat\PessekChatConfig::xmpp_user_when_elgg_user_create_by_admin');
 $this->elgg()->events->registerHandler('delete', 'user', '\Pessek\PessekChat\PessekChatConfig::xmpp_user_delete_by_admin');
 

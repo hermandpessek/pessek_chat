@@ -66,8 +66,8 @@ if (elgg_is_admin_logged_in()){
 				$pessekRPC = new \Pessek\PessekChat\PessekPrcXmlrpcElgg(); 
 				$UserSender = new \Pessek\PessekChat\PessekPrcConnector($elggUsername, $userGroup, $password);
 				$UserReceiver = new \Pessek\PessekChat\PessekPrcConnector($userFriend->username, $userGroup,  $password);
-				$pessekRPC->migrateInvitation($UserSender, $UserReceiver, $NickName, "both");
-				$pessekRPC->migrateInvitation($UserReceiver, $UserSender, $NickName, "both");
+				$pessekRPC->migrateInvitation($UserSender, $UserReceiver, "", "both");
+				$pessekRPC->migrateInvitation($UserReceiver, $UserSender, "", "both");
 			}
 
 			// --- send notification to user
