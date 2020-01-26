@@ -1,0 +1,33 @@
+<?php
+
+return array(
+	'pessek_chat:fullscreen' => 'Full screen chat',
+	'pessek_chat:settings:lib' => 'HERAMND PESSEK CHAT SETTINGS',
+	'pessek_chat:settings:ejabberdip' => 'XMPP(EJABBERD) IP ADDRESS OR HOSTNAME',
+	'pessek_chat:help:ejabberdip' => 'Enter ip address of hotstname of you XMPP server',
+	'pessek_chat:settings:xmlrpcport' => 'XML RPC PORT',
+	'pessek_chat:help:xmlrpcport' => 'Enter your xmlrpc port',
+	'pessek_chat:settings:adminxmppdomain' => 'XMPP(EJABBERD) ADMIN ACCOUNT DOMAIN NAME',
+	'pessek_chat:help:adminxmppdomain' => 'Enter the xmpp domain name for admin account',
+	'pessek_chat:settings:adminxmppusername' => 'XMPP(EJABBERD) ADMIN ACCOUNT USERNAME',
+	'pessek_chat:help:adminxmppusername' => 'Enter admin xmpp username. The admin user should have access to all xmlrpc commands: ',
+	'pessek_chat:settings:adminxmpppassword' => 'XMPP(EJABBERD) ADMIN PASSWORD',
+	'pessek_chat:help:adminxmpppassword' => 'Enter the password of xmpp admin account',
+	'pessek_chat:settings:userxmppdomain' => 'XMPP(EJABBERD) DOMAIN NAME FOR ELGG USERS',
+	'pessek_chat:help:userxmppdomain' => 'Enter the xmpp domain name for elgg users. It can be the same as xmpp domain name for admin account',
+	'pessek_chat:settings:boshurl:https' => 'BOSH URL (HTTPS)',
+	'pessek_chat:help:boshurl:https' => 'i.e: https://192.168.0.102:5443/http-bind or https://192.168.0.102:5443/bosh',
+	'pessek_chat:settings:boshurl:http' => 'BOSH URL (HTTP)',
+	'pessek_chat:help:boshurl:http' => 'i.e: http://192.168.0.102:5280/http-bind or http://192.168.0.102:5280/http-bind',
+	'pessek_chat:settings:usergroup' => 'Contacts',
+	'pessek_chat:settings:websocketurl:https' => 'WEBSOCKET URL (HTTPS)',
+	'pessek_chat:help:websocketurl:https' => 'i.e: wss://192.168.0.102:5443/ws',
+	'pessek_chat:settings:websocketurl:http' => 'WEBSOCKET URL (HTTPS)',
+	'pessek_chat:help:websocketurl:http' => 'i.e: ws://192.168.0.102:5280/ws',
+	'pessek_chat:xmpp:migration' => '<h3>The following USERS have been MIGRATED to the XMPP Server and their new PASSWORDS have been sent</h3><br>',
+	'pessek_chat:xmpp:email:resetpassword:subject' => 'Password reset due to Chat functionality enabled!',
+	'pessek_chat:xmpp:email:resetpassword:body' => "Hi %s, Your password has been reset to: %s due to Chat functionality enabled",
+	'pessek_chat:xmpp:admin:user:resetpassword:no' => "Password could not be reset for user.",
+	'pessek_chat:xmpp:email:admin:subject' => 'Accounts Migrated to XMPP Server',
+
+);
