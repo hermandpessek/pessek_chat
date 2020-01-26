@@ -26,9 +26,7 @@
         </ul>
     </p>
     <p><h3>Step 2: Plugin installation and configuration</h3>
-      <ul>
-          <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
-        </ul>
+        <img src="https://user-images.githubusercontent.com/60041160/72748207-e0cf7380-3bb6-11ea-8c1e-5ccefeb97fb8.png" alt="Setup plugin" style="max-width:100%;">
     </p>
     <p><h3>Step 3: Accounts Migration</h3>
       <ul>
