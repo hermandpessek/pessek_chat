@@ -20,7 +20,7 @@
       <li>To my WIFE</li>
     </ul>
     <h2>INSTALLATION</h2>
-    <p><h2>XMPP Server Installation</h2></p>
+    <p><h3>Step 1: XMPP Server Installation</h3></p>
     <a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a>
     <p><h2>FEATURES</h2></p>
     <ul>
