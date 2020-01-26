@@ -26,12 +26,20 @@
         </ul>
     </p>
     <p><h3>Step 2: Plugin installation and configuration</h3>
+    <h4>Enable Pessek Chat in the Elgg plugin administration panel. Fill the required settings.</h4>
         <img src="https://user-images.githubusercontent.com/60041160/72748207-e0cf7380-3bb6-11ea-8c1e-5ccefeb97fb8.png" alt="Setup plugin" style="max-width:100%;">
     </p>
     <p><h3>Step 3: Accounts Migration</h3>
+      <h4>To synchronise your Elgg community with the XMPP Server(ejabberd) database run the above page</h4>
+      </h4>During the synchronization, the following actions will be performed</h4>
       <ul>
-          <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
-        </ul>
+          <li>Your community users will be synchronized with XMPP Server Back-end. </li>
+          <li>Moreover their passwords will be reset and their new passwords will be sent to them through mail.</li>
+          <li>So make sure that your mail server is working properly.</li>
+          <li>You will be automatically disconnected after the synchronization of your Elgg community with the XMPP Server(ejabberd)  and your new password will also be sent to you by email as well as a report of the synchronization process.</li>
+          <li>All friendships relation will also be synchronized on XMPP server(ejabberd)</li>
+      </ul>
+      </h4>https://YOUR_ELGG_COMMUNITY/pessek_chat/migrate.php</h4>
     </p>
     <p><h2>FEATURES</h2></p>
     <ul>
