@@ -43,9 +43,8 @@
     </p>
     <p><h3>Step 4: Use your new credentials to login. Do not forget to flush elgg cache</h3></p>
     <p><h3><Step 5: Configure conversejs</h3></p>
-    <p>
-    Conversejs provides a lot of configuration settings. You can add or remove some configuration settings by updating the following configuration file. <b><i>mod/pessek_chat/views/default/js/pessek_chat/converse.init.chat.js</i></b>
-    </p>
+    <p>Conversejs provides a lot of configuration settings. You can add or remove some configuration settings by updating the following configuration file. <b><i>mod/pessek_chat/views/default/js/pessek_chat/converse.init.chat.js</i></b>
+  </p>
     <p><h2>FEATURES</h2></p>
     <ul>
         <li>When new elgg users are created, they are also created on the xmpp server</li>
