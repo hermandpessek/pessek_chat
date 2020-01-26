@@ -41,6 +41,7 @@
       </ul>
       </h4>https://YOUR_ELGG_COMMUNITY/pessek_chat/migrate.php</h4>
     </p>
+    <p><h3>Step 4: Use your new credentials to login. Do not forget to flush elgg cache</h3></p>
     <p><h2>FEATURES</h2></p>
     <ul>
         <li>When new elgg users are created, they are also created on the xmpp server</li>
