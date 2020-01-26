@@ -25,7 +25,7 @@
           <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
         </ul>
     </p>
-    <p><h3>Step 2: Plugin installation</h3>
+    <p><h3>Step 2: Plugin installation and configuration</h3>
       <ul>
           <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
         </ul>
