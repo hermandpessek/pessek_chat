@@ -20,8 +20,21 @@
       <li>To my WIFE</li>
     </ul>
     <h2>INSTALLATION</h2>
-    <p><h3>Step 1: XMPP Server Installation</h3></p>
-    <a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a>
+    <p><h3>Step 1: XMPP Server Installation</h3>
+      <ul>
+          <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
+        </ul>
+    </p>
+    <p><h3>Step 2: Plugin installation</h3>
+      <ul>
+          <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
+        </ul>
+    </p>
+    <p><h3>Step 3: Accounts Migration</h3>
+      <ul>
+          <li><a href="https://github.com/hermandpessek/pessek_chat/wiki/setup-guide" target="_blank">https://github.com/hermandpessek/pessek_chat/wiki/setup-guide</a></li>
+        </ul>
+    </p>
     <p><h2>FEATURES</h2></p>
     <ul>
         <li>When new elgg users are created, they are also created on the xmpp server</li>
